@@ -1,0 +1,25 @@
+.card-body{
+    position: relative;
+    content-color:green
+    ;
+}
+.card-body{
+    text-align: center;
+    max-width: 10px;
+    text-align: center;
+    max-width: inherit;
+    padding-block: initial;
+    margin-block: 23px;
+    left: auto;
+    margin-block: auto;
+    flex: auto;
+    border-bottom-width: medium;
+    border: groove;
+    width: fit-content;
+    text-align: -webkit-center;
+    background: whitesmoke;
+};
+.move-button{
+    left:200px; 
+    margin-top: 20px;
+}
